@@ -1,1 +1,6 @@
-Just a quick revision about machine learning
+Just a quick revision about multiple-linear-regression
+
+> This is the part of the journey of [ODaD](https://github.com/Zinwaiyan274/One-DS-a-day)
+
+#ODaD
+#Day1
